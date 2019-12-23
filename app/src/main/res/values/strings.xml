@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slider</string>
+
+    <!--service tutorial tittles-->
+    <string name="service_tutorial_title1">Wants to send gift?</string>
+    <string name="service_tutorial_title2">Find your products</string>
+    <string name="service_tutorial_title3">Choose your product</string>
+    <string name="service_tutorial_title4">Your love one will get the gift</string>
+    <string name="service_tutorial_title5">Celebrate Happiness</string>
+
+    <!--service tutorial description-->
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                Nullam rhoncus ullamcorper eros, egestas placerat elit semper a. Vestibulum cursus, elit.</string>
+</resources>
